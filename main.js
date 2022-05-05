@@ -1,4 +1,4 @@
-import { strictEquals } from './helpers.js';
+import { strictEquals } from './strictEquals.js';
 
 strictEquals(1, 1); //true
 strictEquals(NaN, NaN); // false
