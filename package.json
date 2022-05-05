@@ -1,0 +1,21 @@
+{
+  "name": "202205-w4_maria-yanguas",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ejercicio bootcamp - Modelos mentales de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "María Yanguas Miranda",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
